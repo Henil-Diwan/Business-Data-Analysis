@@ -1,0 +1,545 @@
+Order No,Order Date,Customer ID,Customer Name,Area,City,State,Pin code, Order Total , Discount (%) , Discount Amount , GST , Shipping , Grand Total ,Channel
+2024-0001,01-01-2024,C00726,Sadhan Pratap,Anandi,Vadodara,Gujarat,-,"2,200.00", -   , -   ,264,106,"2,570.00",Online
+2024-0002,01-01-2024,C00727,Anurudh Rai,Mahim East,Mumbai,Maharashtra,400016,"1,400.00", -   , -   ,168,104,"1,672.00",Online
+2024-0003,01-01-2024,C00728,Md Ansar Yadav,Pathraj,Navi Mumbai,Maharashtra,410201,"2,350.00",20,470,282,105.5,"2,267.50",Amazon
+2024-0004,01-01-2024,C00729,Sagun Rajput,DM Colony,Mumbai,Maharashtra,400043,900, -   , -   ,108,103,"1,111.00",Online
+2024-0005,01-01-2024,C00730,Ashish Raj Mishra,Naigaon,Nasik,Maharashtra,422102,"1,200.00", -   , -   ,144,104,"1,448.00",Amazon
+2024-0006,01-01-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,300, -   , -   ,36,102,438,Amazon
+2024-0007,02-01-2024,C00732,Rahui Seth,Mulund Dd Road,Mumbai,Maharashtra,400080,600, -   , -   ,72,103,775,Amazon
+2024-0008,02-01-2024,C00733,Imteyaz Yadav,Kandivali East,-,Maharashtra,400067,250, -   , -   ,30,102.5,382.5,Online
+2024-0009,04-01-2024,C00734,Himmat Singh Rao,Mandapeshwar,Mumbai,Maharashtra,400103,"1,000.00",10,100,120,102,"1,122.00",Amazon
+2024-0010,04-01-2024,C00735,Krishn Kumar Devi,Karmai,Shahdol,Madhya Pradesh,486666,"1,500.00", -   , -   ,180,102.5,"1,782.50",Amazon
+2024-0011,05-01-2024,C00736,Dharmbir Tiwari,MAHIUDDINPUR,Patna,Bihar,803201,900, -   , -   ,108,105,"1,113.00",Online
+2024-0012,08-01-2024,C00737,Pravas Divedi,Borivali East,Mumbai,Maharashtra,400066,750, -   , -   ,90,105.5,945.5,Amazon
+2024-0013,09-01-2024,C00738,Shobhnath Rajput,Dhanas,Chandighar,Punjab,160014,250, -   , -   ,30,102.5,382.5,Online
+2024-0014,10-01-2024,C00739,Aasma Maurya,Malad,Mumbai,Maharashtra,400064,"2,150.00", -   , -   ,258,107.5,"2,515.50",Amazon
+2024-0015,10-01-2024,C00740,Nilutpal Pratap,Morbe,Navi Mumbai,Maharashtra,410206,500, -   , -   ,60,102.5,662.5,Amazon
+2024-0016,11-01-2024,C00741,Rumpi Yadav,Kondapur,Hyderabad,Telangana,500084,"3,850.00", -   , -   ,462,105.5,"4,417.50",Amazon
+2024-0017,13-01-2024,C00742,Gireesh Kumari,Devichapada,Navi Mumbai,Maharashtra,410208,"1,100.00",20,220,132,106,"1,118.00",Amazon
+2024-0018,13-01-2024,C00743,Navita Singh,Somatane,Navi Mumbai,Maharashtra,410206,200, -   , -   ,24,102,326,Online
+2024-0019,13-01-2024,C00744,Umakanth Yadav,Konkan Bhavan,Thane,Maharashtra,400614,400, -   , -   ,48,104,552,Amazon
+2024-0020,14-01-2024,C00745,Apurva Singh,Bhawani Shankar Rd,Mumbai,Maharashtra,400028,"1,700.00",40,680,204,105,"1,329.00",Online
+2024-0021,15-01-2024,C00746,Aaquib Singh,Kalamb,Navi Mumbai,Maharashtra,410101,750,30,225,90,105,720,Amazon
+2024-0022,15-01-2024,C00747,Chatan Pandit,Sharma Estate,Mumbai,Maharashtra,400063,300,20,60,36,103,379,Amazon
+2024-0023,15-01-2024,C00748,Theri Mishra,Navghar,Navi Mumbai,Maharashtra,400707,"1,250.00",30,375,150,105,"1,130.00",Amazon
+2024-0024,15-01-2024,C00749,Santush Pratap,Karjat,Navi Mumbai,Maharashtra,410201,"2,150.00", -   , -   ,258,107.5,"2,515.50",Amazon
+2024-0025,16-01-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,600,30,180,72,104,596,Amazon
+2024-0026,17-01-2024,C00750,Himanshu Kumar Tiwari,Dental College,Patna,Bihar,800007,"1,450.00", -   , -   ,174,104.5,"1,728.50",Amazon
+2024-0027,18-01-2024,C00751,Devdatt Srivastav,Chinchwali,Navi Mumbai,Maharashtra,410201,"1,600.00", -   , -   ,192,104.5,"1,896.50",Amazon
+2024-0028,18-01-2024,C00752,Shwet Rao,Bikampura,Bhilwara,Rajasthan,311602,250, -   , -   ,30,102.5,382.5,Amazon
+2024-0029,19-01-2024,C00753,Choti Vishwakarma,Adai,Navi Mumbai,Maharashtra,410206,"5,000.00", -   , -   ,600,106,"5,706.00",Amazon
+2024-0030,20-01-2024,C00754,Dheena Seth,Sugawe,Navi Mumbai,Maharashtra,410201,750, -   , -   ,90,102.5,942.5,Online
+2024-0031,20-01-2024,C00755,Motiar Singh,Dadar,Mumbai,Maharashtra,400014,"1,400.00", -   , -   ,168,103.5,"1,671.50",Online
+2024-0032,20-01-2024,C00756,Prabhunath Maurrya,Koil Puthur,Salem East,Tamil Nadu,636138,200, -   , -   ,24,102,326,Amazon
+2024-0033,21-01-2024,C00757,Kishor Srivastav,Hathini,Rohtas,Bihar,802215,"1,550.00", -   , -   ,186,106.5,"1,842.50",Online
+2024-0034,21-01-2024,C00758,Toran Tiwari,Madh,Mumbai,Maharashtra,400061,"1,050.00", -   , -   ,126,105.5,"1,281.50",Online
+2024-0035,21-01-2024,C00759,Saffan Thakur,Jamshedpur,Jamshedpur,Jharkhand,831001,400, -   , -   ,48,102,550,Amazon
+2024-0036,22-01-2024,C00760,Saji Kumar,Colaba,Mumbai,Maharashtra,400005,"1,550.00",10,155,186,106,"1,687.00",Amazon
+2024-0037,22-01-2024,C00761,Ashitosh Divedi,Khopoli,Navi Mumbai,Maharashtra,410204,"2,250.00", -   , -   ,270,104.5,"2,624.50",Amazon
+2024-0038,23-01-2024,C00762,Gauri Kumari,Jaskhar,Navi Mumbai,Maharashtra,400707,"1,750.00", -   , -   ,210,105,"2,065.00",Amazon
+2024-0039,23-01-2024,C00763,Subramanian Pandey,Ringas,Sikar,Rajasthan,332404,"1,000.00", -   , -   ,120,105.5,"1,225.50",Amazon
+2024-0040,23-01-2024,C00764,Araman Sonkar,Agripada,Mumbai,Maharashtra,400011,"1,650.00", -   , -   ,198,106,"1,954.00",Online
+2024-0041,24-01-2024,C00765,Nauman Vishwakarma,Kalbadevi,Mumbai,Maharashtra,400002,900, -   , -   ,108,104.5,"1,112.50",Online
+2024-0042,24-01-2024,C00766,Nrisingh Pandey,Hanuman Road,Mumbai,Maharashtra,400057,600, -   , -   ,72,106,778,Amazon
+2024-0043,25-01-2024,C00767,Gungun Sonkar,Gandhinagar Sector 30,Gandhinagar,Gujarat,382030,"1,300.00", -   , -   ,156,107.5,"1,563.50",Online
+2024-0044,25-01-2024,C00768,Kishorsinh Yadav,Somnathrgaon,Beed,Maharashtra,431517,500, -   , -   ,60,102.5,662.5,Amazon
+2024-0045,27-01-2024,C00769,Nripen Tiwari,Wavandhal,Navi Mumbai,Maharashtra,410206,"1,100.00",10,110,132,103,"1,225.00",Amazon
+2024-0046,29-01-2024,C00770,Manojit Mishra,Patajan,Khandwa,Madhya Pradesh,450117,"1,350.00", -   , -   ,162,105.5,"1,617.50",Online
+2024-0047,30-01-2024,C00771,Tapos Devi,Juhu,Mumbai,Maharashtra,400049,600, -   , -   ,72,101.5,773.5,Online
+2024-0048,30-01-2024,C00772,Fulchan Tiwari,Beed Budruk,Navi Mumbai,Maharashtra,410201,"1,000.00", -   , -   ,120,107.5,"1,227.50",Online
+2024-0049,30-01-2024,C00773,Ish Sonkar,Gotanagar,Guwahati,Assam,781011,350, -   , -   ,42,103.5,495.5,Amazon
+2024-0050,30-01-2024,C00774,Palas Rai,Sakhra Khurd,Yeotmal,Maharashtra,445301,"2,300.00",20,460,276,107,"2,223.00",Amazon
+2024-0051,31-01-2024,C00775,Moina Tiwari,Nhava,Navi Mumbai,Maharashtra,410206,"1,050.00", -   , -   ,126,103.5,"1,279.50",Amazon
+2024-0052,31-01-2024,C00728,Md Ansar Yadav,Pathraj,Navi Mumbai,Maharashtra,410201,"2,250.00", -   , -   ,270,106.5,"2,626.50",Amazon
+2024-0053,31-01-2024,C00729,Sagun Rajput,DM Colony,Mumbai,Maharashtra,400043,400, -   , -   ,48,102,550,Online
+2024-0054,31-01-2024,C00730,Ashish Raj Mishra,Naigaon,Nasik,Maharashtra,422102,900, -   , -   ,108,103,"1,111.00",Amazon
+2024-0055,31-01-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,400,10,40,48,102,510,Amazon
+2024-0056,02-02-2024,C00776,Soniya Kumar,Borivali East,Mumbai,Maharashtra,400066,250, -   , -   ,30,102.5,382.5,Online
+2024-0057,02-02-2024,C00749,Santush Pratap,Karjat,Navi Mumbai,Maharashtra,410201,"1,950.00",20,390,234,107.5,"1,901.50",Amazon
+2024-0058,05-02-2024,C00777,Mukhiya Mishra,Mohopada,Navi Mumbai,Maharashtra,410222,"1,250.00", -   , -   ,150,106.5,"1,506.50",Amazon
+2024-0059,06-02-2024,C00778,Pinki Maurrya,Dadar,Mumbai,-,400014,250, -   , -   ,30,102.5,382.5,Online
+2024-0060,06-02-2024,C00779,Raju Singh Tiwari,Mazgaon,Mumbai,Maharashtra,400010,850, -   , -   ,102,104.5,"1,056.50",Amazon
+2024-0061,07-02-2024,C00799,Tejpratap Tiwari,Pashane,Navi Mumbai,-,410101,150, -   , -   ,18,101.5,269.5,Online
+2024-0062,07-02-2024,C00780,Afrid Seth,Valacheri,Sivaganga,Tamil Nadu,630611,"1,350.00", -   , -   ,162,107.5,"1,619.50",Amazon
+2024-0063,11-02-2024,C00781,Sonalal Tiwari,Karoli  T,SANGLI,Maharashtra,416405,850, -   , -   ,102,106.5,"1,058.50",Amazon
+2024-0064,13-02-2024,C00782,Anees Tiwari,Park Street,Kolkata,West Bengal,700016,500, -   , -   ,60,103,663,Online
+2024-0065,13-02-2024,C00754,Dheena Seth,Sugawe,Navi Mumbai,Maharashtra,410201,"1,250.00", -   , -   ,150,105.5,"1,505.50",Online
+2024-0066,13-02-2024,C00783,Harshraj Srivastav,Chaupati,Mumbai,Maharashtra,400004,650, -   , -   ,78,103.5,831.5,Online
+2024-0067,14-02-2024,C00784,Gaureeshankar Seth,Jamshedpur,Jamshedpur,Jharkhand,831001,250, -   , -   ,30,102.5,382.5,Amazon
+2024-0068,15-02-2024,C00758,Toran Tiwari,Madh,Mumbai,Maharashtra,400061,"2,050.00", -   , -   ,246,106,"2,402.00",Online
+2024-0069,15-02-2024,C00785,Sharat Thakur,Jui,Navi Mumbai,Maharashtra,410206,"1,500.00", -   , -   ,180,103,"1,783.00",Amazon
+2024-0070,15-02-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,200, -   , -   ,24,102,326,Amazon
+2024-0071,15-02-2024,C00787,Mabasha Vishwakarma,Plasva,Junagadh,Gujarat,362015,300, -   , -   ,36,103,439,Online
+2024-0072,16-02-2024,C00742,Gireesh Kumari,Devichapada,Navi Mumbai,Maharashtra,410208,250, -   , -   ,30,102.5,382.5,Amazon
+2024-0073,17-02-2024,C00792,Sohani Tiwari,Naroda,Ahmedabad,Gujarat,382330,700,20,140,84,103.5,747.5,Amazon
+2024-0074,18-02-2024,C00788,Halpati Seth,J H Tendua,Aurangabad,Bihar,824301,300, -   , -   ,36,101.5,437.5,Amazon
+2024-0075,20-02-2024,C00789,Santush Vishwakarma,FCI,Mumbai,Maharashtra,400074,750, -   , -   ,90,107.5,947.5,Online
+2024-0076,20-02-2024,C00790,Akshayakeerti Kumar,Cansaulim,Goa,Goa,403712,800, -   , -   ,96,106,"1,002.00",Amazon
+2024-0077,24-02-2024,C00757,Kishor Srivastav,Hathini,Rohtas,Bihar,802215,400, -   , -   ,48,104,552,Online
+2024-0078,25-02-2024,C00791,Vivo Thakur,Nere,Navi Mumbai,Maharashtra,410206,"1,000.00", -   , -   ,120,102.5,"1,222.50",Online
+2024-0079,25-02-2024,C00792,Siddiq Tiwari,Naroda,Ahmedabad,Gujarat,382330,850, -   , -   ,102,104.5,"1,056.50",Amazon
+2024-0080,25-02-2024,C00793,Halappa Maurrya,Khopoli,Navi Mumbai,Maharashtra,410204,950, -   , -   ,114,107,"1,171.00",Online
+2024-0081,28-02-2024,C00794,Parikh Tiwari,Awre,Navi Mumbai,Maharashtra,410206,500, -   , -   ,60,102.5,662.5,Online
+2024-0082,28-02-2024,C00799,Tejpratap Tiwari,Pashane,Navi Mumbai,Maharashtra,410101,400, -   , -   ,48,102,550,Amazon
+2024-0083,29-02-2024,C00795,Ashvin Pandit,Jalahalli,Bengaluru,Karnataka,573211,"1,000.00", -   , -   ,120,105,"1,225.00",Amazon
+2024-0084,29-02-2024,C00796,Rajesh Bhai Singh,Kondaveedu,Narasaraopet,Andhra Pradesh,522529,400, -   , -   ,48,101,549,Amazon
+2024-0085,29-02-2024,C00797,Pankit Rao,Gulsunde,Navi Mumbai,Maharashtra,410207,550,10,55,66,105.5,666.5,Amazon
+2024-0086,01-03-2024,C00726,Sadhan Pratap,Anandi,Vadodara,Gujarat,391110,400, -   , -   ,48,102,550,Online
+2024-0087,01-03-2024,C00775,Moina Tiwari,Nhava,Navi Mumbai,Maharashtra,410206,"2,050.00", -   , -   ,246,108.5,"2,404.50",Amazon
+2024-0088,01-03-2024,C00727,Anurudh Rai,Mahim East,Mumbai,Maharashtra,400016,"2,000.00", -   , -   ,240,106,"2,346.00",Online
+2024-0089,01-03-2024,C00728,Md Ansar Yadav,Pathraj,Navi Mumbai,-,410201,"2,150.00", -   , -   ,258,109,"2,517.00",Amazon
+2024-0090,01-03-2024,C00729,Sagun Rajput,DM Colony,Mumbai,Maharashtra,400043,"1,950.00", -   , -   ,234,107.5,"2,291.50",Online
+2024-0091,01-03-2024,C00730,Ashish Raj Mishra,Naigaon,Nasik,Maharashtra,422102,"1,050.00", -   , -   ,126,103.5,"1,279.50",Amazon
+2024-0092,01-03-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,300, -   , -   ,36,101.5,437.5,Amazon
+2024-0093,01-03-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,300, -   , -   ,36,101.5,437.5,Amazon
+2024-0094,02-03-2024,C00798,Nagaraj Kumar,Taloja A.V.,Navi Mumbai,Maharashtra,410208,"1,950.00", -   , -   ,234,107.5,"2,291.50",Online
+2024-0095,02-03-2024,C00799,Tejpratap Tiwari,Pashane,Navi Mumbai,Maharashtra,410101,100, -   , -   ,12,101,213,Amazon
+2024-0096,02-03-2024,C00800,Kehar Rao,Vidyanagar (Nellore),Gudur,Andhra Pradesh,524413,"1,100.00", -   , -   ,132,105,"1,337.00",Amazon
+2024-0097,03-03-2024,C00801,Rajat Vishwakarma,Khadoor Sahib,Amritsar,Punjab,143117,750, -   , -   ,90,101.5,941.5,Amazon
+2024-0098,03-03-2024,C00792,Sohani Tiwari,Naroda,Ahmedabad,Gujarat,382330,"1,300.00", -   , -   ,156,107.5,"1,563.50",Online
+2024-0099,05-03-2024,C00802,Aayush Maurya,Gokhale Road,Mumbai,Maharashtra,400028,950, -   , -   ,114,105.5,"1,169.50",Online
+2024-0100,05-03-2024,C00803,Dheerendra Kumari,Shelu,Navi Mumbai,Maharashtra,410101,700, -   , -   ,84,105,889,Amazon
+2024-0101,06-03-2024,C00804,Satnam Mishra,Mallavadi,Tiruvannamalai,Tamil Nadu,606805,700,10,70,84,103.5,817.5,Online
+2024-0102,09-03-2024,C00805,Mazid Gupta,JM Road,Mumbai,Maharashtra,400078,"1,000.00", -   , -   ,120,105.5,"1,225.50",Online
+2024-0103,09-03-2024,C00806,Brajabandhu Rao,Ghansoli,Thane,Maharashtra,400701,"4,500.00",20,900,540,105.5,"4,245.50",Online
+2024-0104,11-03-2024,C00807,Chandhu Rajput,Wadala,Mumbai,Maharashtra,400031,250, -   , -   ,30,102.5,382.5,Online
+2024-0105,12-03-2024,C00808,Devendar Mishra,Grant Road,Mumbai,Maharashtra,400007,800,20,160,96,104,840,Amazon
+2024-0106,13-03-2024,C00809,Kallu Srivastav,Bhandup East,Mumbai,Maharashtra,400042,250, -   , -   ,30,102.5,382.5,Online
+2024-0107,15-03-2024,C00810,Bhimrao Pandey,H.M.P. School,Mumbai,Maharashtra,400058,100, -   , -   ,12,101,213,Online
+2024-0108,15-03-2024,C00811,Dipanwita Thakur,Kidwai Nagar,Mumbai,Maharashtra,400031,"1,400.00", -   , -   ,168,106,"1,674.00",Online
+2024-0109,16-03-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,450, -   , -   ,54,103,607,Amazon
+2024-0110,18-03-2024,C00812,Trilok Singh Thakur,B P T Colony,Mumbai,Maharashtra,400037,500, -   , -   ,60,103.5,663.5,Online
+2024-0111,19-03-2024,C00813,Munna Bhai Rao,Goriya,Pali,Rajasthan,306707,800,20,160,96,103,839,Amazon
+2024-0112,21-03-2024,C00814,Dablu Kumar Seth,J.B. Nagar,Mumbai,Maharashtra,400059,500, -   , -   ,60,103,663,Amazon
+2024-0113,21-03-2024,C00815,Zohan Pandey,Netaji Nagar,Mumbai,Maharashtra,400070,600, -   , -   ,72,102,774,Online
+2024-0114,22-03-2024,C00816,Dilnawaz Sonkar,Hivare,Satara,Maharashtra,415021,900, -   , -   ,108,103,"1,111.00",Amazon
+2024-0115,23-03-2024,C00817,Shivesh Pratap,Donwat,Navi Mumbai,Maharashtra,410203,150, -   , -   ,18,101.5,269.5,Amazon
+2024-0116,24-03-2024,C00818,Tajamul Sonkar,N.S.Karanja,Navi Mumbai,Maharashtra,400704,200,30,60,24,102,266,Amazon
+2024-0117,25-03-2024,C00819,Tabasum Vishwakarma,Bharat Nagar,Mumbai,Maharashtra,400007,200, -   , -   ,24,102,326,Online
+2024-0118,25-03-2024,C00820,Deepmala Vishwakarma,Mori Road,Mumbai,Maharashtra,400016,"1,200.00",10,120,144,103,"1,327.00",Amazon
+2024-0119,26-03-2024,C00821,Dinesh Chandra Rao,Harsani,Surat,Gujarat,394421,"1,000.00",20,200,120,102.5,"1,022.50",Amazon
+2024-0120,26-03-2024,C00744,Umakanth Yadav,Konkan Bhavan,Thane,Maharashtra,400614,"1,100.00",30,330,132,104,"1,006.00",Amazon
+2024-0121,27-03-2024,C00822,Nang Mishra,B.N. Bhavan,Mumbai,Maharashtra,400051,"1,700.00", -   , -   ,204,108.5,"2,012.50",Amazon
+2024-0122,28-03-2024,C00823,Irrfan Seth,Ambewadi,Mumbai,Maharashtra,400004,"1,700.00", -   , -   ,204,108.5,"2,012.50",Online
+2024-0123,29-03-2024,C00824,Sunakar Pandit,Dr Deshmukh Marg,Mumbai,Maharashtra,400026,900, -   , -   ,108,104,"1,112.00",Amazon
+2024-0124,29-03-2024,C00767,Gungun Sonkar,Gandhinagar Sector 30,Gandhinagar,Gujarat,382030,"1,100.00", -   , -   ,132,103,"1,335.00",Online
+2024-0125,31-03-2024,C00825,Mahas Rai,Jasai,Navi Mumbai,Maharashtra,410206,950, -   , -   ,114,105.5,"1,169.50",Amazon
+2024-0126,31-03-2024,C00826,Vedpal Rai,Turbhe,Thane,Maharashtra,400703,"1,300.00", -   , -   ,156,105.5,"1,561.50",Amazon
+2024-0127,31-03-2024,C00728,Md Ansar Yadav,Pathraj,Navi Mumbai,Maharashtra,410201,600, -   , -   ,72,103,775,Amazon
+2024-0128,31-03-2024,C00729,Sagun Rajput,DM Colony,Mumbai,Maharashtra,400043,600, -   , -   ,72,103,775,Online
+2024-0129,31-03-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,400, -   , -   ,48,102,550,Amazon
+2024-0130,31-03-2024,C00827,Anant Kumar Rajput,Matheran,Navi Mumbai,Maharashtra,410102,150, -   , -   ,18,101.5,269.5,Online
+2024-0131,31-03-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,600, -   , -   ,72,104,776,Amazon
+2024-0132,01-04-2024,C00828,Motilal Mishra,Jaskhar,Navi Mumbai,Maharashtra,400707,"1,100.00", -   , -   ,132,104,"1,336.00",Amazon
+2024-0133,02-04-2024,C00829,Pv Yadav,Bigaha,Saran,Bihar,841212,"1,250.00", -   , -   ,150,102.5,"1,502.50",Online
+2024-0134,04-04-2024,C00830,Shravani Vishwakarma,Mahim East,Mumbai,Maharashtra,400016,"1,300.00", -   , -   ,156,106,"1,562.00",Amazon
+2024-0135,05-04-2024,C00831,Zargar Devi,Gamach,Tonk,Rajasthan,323602,450, -   , -   ,54,101.5,605.5,Amazon
+2024-0136,05-04-2024,C00832,Kavana Mishra,Chikhale,Navi Mumbai,Maharashtra,410221,"1,350.00", -   , -   ,162,103.5,"1,615.50",Online
+2024-0137,05-04-2024,C00833,Krushana Rajput,Agripada,Mumbai,Maharashtra,400011,"1,000.00", -   , -   ,120,102.5,"1,222.50",Amazon
+2024-0138,06-04-2024,C00834,Techi Kumari,Koproli,Navi Mumbai,Maharashtra,410206,"2,800.00", -   , -   ,336,108,"3,244.00",Online
+2024-0139,07-04-2024,C00835,Vikal Rao,M A Marg,Mumbai,Maharashtra,400008,650, -   , -   ,78,105,833,Amazon
+2024-0140,08-04-2024,C00836,Vishvjeet Seth,Haji Ali,Mumbai,Maharashtra,400034,300, -   , -   ,36,101,437,Online
+2024-0141,09-04-2024,C00837,Ganeshram Divedi,Rajupalem (Guntur),Narasaraopet,Andhra Pradesh,522412,600, -   , -   ,72,102,774,Amazon
+2024-0142,09-04-2024,C00754,Dheena Seth,Sugawe,Navi Mumbai,Maharashtra,410201,600, -   , -   ,72,103,775,Online
+2024-0143,10-04-2024,C00838,Chandran Mishra,Vadla,Surendranagar,Gujarat,363030,"1,300.00",10,130,156,104,"1,430.00",Amazon
+2024-0144,10-04-2024,C00839,Joyti Mishra,Baniasahi,Puri,Odisha,752002,350,20,70,42,103.5,425.5,Amazon
+2024-0145,10-04-2024,C00766,Nrisingh Pandey,Hanuman Road,Mumbai,Maharashtra,400057,"1,250.00", -   , -   ,150,102.5,"1,502.50",Amazon
+2024-0146,11-04-2024,C00840,Surend Yadav,Airoli,Thane,Maharashtra,400708,"1,100.00", -   , -   ,132,105,"1,337.00",Amazon
+2024-0147,12-04-2024,C00757,Kishor Srivastav,Hathini,Rohtas,Bihar,802215,"1,400.00", -   , -   ,168,106,"1,674.00",Online
+2024-0148,13-04-2024,C00742,Gireesh Kumari,Devichapada,Navi Mumbai,Maharashtra,410208,"1,700.00", -   , -   ,204,107.5,"2,011.50",Amazon
+2024-0149,13-04-2024,C00841,Yashrajsinh Srivastav,Sanpada,Thane,Maharashtra,400705,500, -   , -   ,60,105,665,Online
+2024-0150,14-04-2024,C00842,Ekavali Pandey,Sarvoday Kendra,Sabarkantha,Gujarat,383355,500, -   , -   ,60,105,665,Online
+2024-0151,14-04-2024,C00774,Palas Rai,Sakhra Khurd,Yeotmal,Maharashtra,445301,600, -   , -   ,72,102,774,Amazon
+2024-0152,15-04-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,600, -   , -   ,72,104,776,Amazon
+2024-0153,15-04-2024,C00827,Anant Kumar Rajput,Matheran,Navi Mumbai,Maharashtra,410102,200, -   , -   ,24,101,325,Online
+2024-0154,16-04-2024,C00754,Dheena Seth,Sugawe,Navi Mumbai,Maharashtra,410201,"1,200.00", -   , -   ,144,103,"1,447.00",Online
+2024-0155,17-04-2024,C00843,Raja Babu Pandey,Banjara Hills,Hyderabad,Telangana,500034,700,20,140,84,104,748,Online
+2024-0156,17-04-2024,C00790,Akshayakeerti Kumar,Cansaulim,Goa,Goa,403712,"1,950.00",20,390,234,107.5,"1,901.50",Amazon
+2024-0157,18-04-2024,C00844,Parmila Kumar,Amargarh,Bhilwara,Rajasthan,311605,750,20,150,90,104.5,794.5,Amazon
+2024-0158,18-04-2024,C00808,Devendar Mishra,Grant Road,Mumbai,Maharashtra,400007,"1,000.00", -   , -   ,120,102,"1,222.00",Online
+2024-0159,18-04-2024,C00845,Jayaben Thakur,Goregaon,Mumbai,Maharashtra,400104,"1,050.00", -   , -   ,126,106.5,"1,282.50",Amazon
+2024-0160,19-04-2024,C00846,Mohabbat Maurya,Nidhanwala,Faridkot,Punjab,142048,600, -   , -   ,72,105,777,Amazon
+2024-0161,20-04-2024,C00847,Rekharam Rai,Karanja,Navi Mumbai,Maharashtra,400702,250,10,25,30,102.5,357.5,Online
+2024-0162,21-04-2024,C00848,Saajan Sonkar,Malabar Hill,Mumbai,Maharashtra,400006,800, -   , -   ,96,106,"1,002.00",Online
+2024-0163,21-04-2024,C00849,Navghan Mishra,Alapakkam,Arakkonam,Tamil Nadu,632508,200, -   , -   ,24,101,325,Amazon
+2024-0164,21-04-2024,C00850,Lovelesh Thakur,Pinani,Pauri,Uttarakhand,246162,900, -   , -   ,108,103.5,"1,111.50",Amazon
+2024-0165,22-04-2024,C00851,Saffan Vishwakarma,Jayanthipuram,Vijayawada,Andhra Pradesh,521457,700, -   , -   ,84,107,891,Amazon
+2024-0166,23-04-2024,C00818,Tajamul Sonkar,N.S.Karanja,Navi Mumbai,Maharashtra,400704,600, -   , -   ,72,103,775,Amazon
+2024-0167,24-04-2024,C00758,Toran Tiwari,Madh,-,Maharashtra,400061,"2,350.00", -   , -   ,282,106.5,"2,738.50",Online
+2024-0168,25-04-2024,C00852,Bahula Mishra,Chanderverdai Nagar,Ajmer,-,305003,700, -   , -   ,84,102.5,886.5,Amazon
+2024-0169,25-04-2024,C00760,Saji Kumar,Colaba,Mumbai,Maharashtra,400005,100, -   , -   ,12,101,213,Amazon
+2024-0170,25-04-2024,C00853,Vasu Gupta,Jamkunda,Chhindwara,Madhya Pradesh,480551,100, -   , -   ,12,101,213,Online
+2024-0171,26-04-2024,C00788,Halpati Seth,J H Tendua,Aurangabad,Bihar,824301,600, -   , -   ,72,102,774,Amazon
+2024-0172,28-04-2024,C00854,Hajikul Pandey,Jamalpur,Mirzapur,Uttar Pradesh,231302,100, -   , -   ,12,101,213,Amazon
+2024-0173,28-04-2024,C00855,Bhat Divedi,Chikhale,Navi Mumbai,Maharashtra,410221,600,10,60,72,102,714,Online
+2024-0174,30-04-2024,C00726,Sadhan Pratap,Anandi,Vadodara,Gujarat,391110,800, -   , -   ,96,102,998,Online
+2024-0175,30-04-2024,C00775,Moina Tiwari,Nhava,Navi Mumbai,Maharashtra,410206,700,10,70,84,103,817,Amazon
+2024-0176,30-04-2024,C00727,Anurudh Rai,Mahim East,Mumbai,Maharashtra,400016,"1,200.00", -   , -   ,144,103,"1,447.00",Online
+2024-0177,30-04-2024,C00729,Sagun Rajput,DM Colony,Mumbai,Maharashtra,400043,600,10,60,72,103,715,Online
+2024-0178,30-04-2024,C00730,Ashish Raj Mishra,Naigaon,Nasik,Maharashtra,422102,"2,000.00", -   , -   ,240,106,"2,346.00",Amazon
+2024-0179,30-04-2024,C00827,Anant Kumar Rajput,Matheran,Navi Mumbai,Maharashtra,410102,600, -   , -   ,72,104,776,Online
+2024-0180,30-04-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,400, -   , -   ,48,102,550,Amazon
+2024-0181,01-05-2024,C00856,Manpal Vishwakarma,Magrauth,Banda,Uttar Pradesh,210430,"1,700.00", -   , -   ,204,108.5,"2,012.50",Online
+2024-0182,01-05-2024,C00792,Sivamani Rai,Naroda,Ahmedabad,Gujarat,382330,900, -   , -   ,108,104,"1,112.00",Amazon
+2024-0183,01-05-2024,C00857,Iranna Rajput,Bardwha,Chhatarpur,Madhya Pradesh,471301,900, -   , -   ,108,103,"1,111.00",Amazon
+2024-0184,02-05-2024,C00858,Radhey Gupta,Mandvi,Mumbai,Maharashtra,400003,300, -   , -   ,36,101,437,Online
+2024-0185,02-05-2024,C00859,Mukes Kumari,Andheri Railway Station,Mumbai,Maharashtra,400058,500, -   , -   ,60,102.5,662.5,Online
+2024-0186,06-05-2024,C00860,Madri Rajput,Fort Gate,Rajahmundry,Andhra Pradesh,533101,300, -   , -   ,36,103,439,Amazon
+2024-0187,06-05-2024,C00818,Tajamul Sonkar,N.S.Karanja,Navi Mumbai,Maharashtra,400704,650,10,65,78,104.5,767.5,Amazon
+2024-0188,07-05-2024,C00792,Siddiq Tiwari,Naroda,Ahmedabad,Gujarat,382330,900, -   , -   ,108,105,"1,113.00",Amazon
+2024-0189,08-05-2024,C00861,Vikram Singh Gupta,Naigaon,Mumbai,Maharashtra,400014,100, -   , -   ,12,101,213,Amazon
+2024-0190,08-05-2024,C00849,Navghan Mishra,Alapakkam,Arakkonam,Tamil Nadu,632508,"1,150.00", -   , -   ,138,106,"1,394.00",Amazon
+2024-0191,09-05-2024,C00862,Aavesh Sonkar,L B S N E collage,Mumbai,Maharashtra,400033,"1,650.00",20,330,198,105.5,"1,623.50",Amazon
+2024-0192,09-05-2024,C00818,Tajamul Sonkar,N.S.Karanja,Navi Mumbai,Maharashtra,400704,"2,300.00",20,460,276,107,"2,223.00",Amazon
+2024-0193,10-05-2024,C00863,Batakrushna Thakur,Mandavane,Navi Mumbai,Maharashtra,410201,900,10,90,108,103.5,"1,021.50",Online
+2024-0194,10-05-2024,C00864,Dharmend Tiwari,Naigaon,Mumbai,-,400014,600, -   , -   ,72,106,778,Online
+2024-0195,11-05-2024,C00865,M J Maurya,Sugawe,Navi Mumbai,Maharashtra,410201,"1,450.00", -   , -   ,174,105.5,"1,729.50",Amazon
+2024-0196,11-05-2024,C00866,Shagul Srivastav,Panvel,Navi Mumbai,Maharashtra,410206,600, -   , -   ,72,103,775,Amazon
+2024-0197,12-05-2024,C00867,Ningu Mishra,Dadar,Mumbai,Maharashtra,400014,"1,500.00", -   , -   ,180,103,"1,783.00",Amazon
+2024-0198,12-05-2024,C00868,Shivam Sonkar,Somatane,Navi Mumbai,Maharashtra,410206,700,20,140,84,103.5,747.5,Online
+2024-0199,12-05-2024,C00869,Techi Divedi,Aareymilk Colony,Mumbai,Maharashtra,400065,"1,500.00", -   , -   ,180,103,"1,783.00",Amazon
+2024-0200,13-05-2024,C00870,Muruganantham Rajput,Dahisar,Mumbai,Maharashtra,400068,800,20,160,96,104,840,Amazon
+2024-0201,14-05-2024,C00871,Soma Srivastav,Nerkundram,Chennai,Tamil Nadu,600107,900, -   , -   ,108,103,"1,111.00",Online
+2024-0202,15-05-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,450, -   , -   ,54,103,607,Amazon
+2024-0203,15-05-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,200, -   , -   ,24,101,325,Amazon
+2024-0204,16-05-2024,C00872,Harini Rai,Sahar P and T Colony,Mumbai,Maharashtra,400099,600, -   , -   ,72,104,776,Amazon
+2024-0205,16-05-2024,C00873,Champalal Kumari,Rajpura,Sikar,Rajasthan,332023,"1,000.00",10,100,120,102,"1,122.00",Amazon
+2024-0206,18-05-2024,C00874,Geeta Seth,Goregaon,Mumbai,Maharashtra,400104,"1,150.00", -   , -   ,138,106,"1,394.00",Amazon
+2024-0207,19-05-2024,C00799,Tejpratap Tiwari,Pashane,Navi Mumbai,Maharashtra,410101,"1,250.00",20,250,150,106,"1,256.00",Amazon
+2024-0208,19-05-2024,C00875,Anandita Tiwari,Bhandup East,Mumbai,Maharashtra,400042,"1,300.00", -   , -   ,156,107.5,"1,563.50",Amazon
+2024-0209,20-05-2024,C00876,N R Seth,Phaphre Bhaike,Bhatinda,Punjab,151502,"1,150.00", -   , -   ,138,107.5,"1,395.50",Online
+2024-0210,21-05-2024,C00877,Benu Devi,Asvini,Mumbai,Maharashtra,400005,500, -   , -   ,60,102.5,662.5,Online
+2024-0211,22-05-2024,C00878,Amarpreet Singh,Kharghar,Navi Mumbai,Maharashtra,410210,900, -   , -   ,108,103,"1,111.00",Amazon
+2024-0212,22-05-2024,C00879,Dattaram Maurrya,Gaulwadi,Navi Mumbai,Maharashtra,410201,"1,750.00", -   , -   ,210,107.5,"2,067.50",Amazon
+2024-0213,23-05-2024,C00754,Dheena Seth,Sugawe,Navi Mumbai,Maharashtra,410201,"1,350.00",20,270,162,104.5,"1,346.50",Online
+2024-0214,23-05-2024,C00880,Lakkappa Gupta,Worli Naka,Mumbai,Maharashtra,400018,500,20,100,60,102.5,562.5,Amazon
+2024-0215,24-05-2024,C00881,Baidyanath Kumar,Naupada RS,Srikakulam,Andhra Pradesh,532212,"2,150.00", -   , -   ,258,108,"2,516.00",Amazon
+2024-0216,24-05-2024,C00882,Ishan Tiwari,Andheri Railway Station,Mumbai,Maharashtra,400058,"1,500.00", -   , -   ,180,103,"1,783.00",Amazon
+2024-0217,25-05-2024,C00883,Immanuel Rajput,Princess Dock,Mumbai,Maharashtra,400009,"2,650.00", -   , -   ,318,106.5,"3,074.50",Amazon
+2024-0218,25-05-2024,C00884,Sms Pratap,Dahisar,Mumbai,Maharashtra,400068,"1,100.00",20,220,132,107,"1,119.00",Online
+2024-0219,25-05-2024,C00795,Ashvin Pandit,Jalahalli,Bengaluru,Karnataka,573211,"1,250.00", -   , -   ,150,105.5,"1,505.50",Online
+2024-0220,26-05-2024,C00885,Shakar Srivastav,Varvand,Pune Moffusil,Maharashtra,412215,450, -   , -   ,54,101.5,605.5,Amazon
+2024-0221,27-05-2024,C00886,Anveshita Vishwakarma,Dahisar,Mumbai,Maharashtra,400068,"1,550.00", -   , -   ,186,107,"1,843.00",Online
+2024-0222,27-05-2024,C00887,Nutei Devi,Samona,Dholpur,Rajasthan,328025,900, -   , -   ,108,105.5,"1,113.50",Amazon
+2024-0223,28-05-2024,C00888,Md Sarwar Pratap,PARGAON,Navi Mumbai,Maharashtra,410206,"1,200.00", -   , -   ,144,107,"1,451.00",Online
+2024-0224,28-05-2024,C00889,Bhuru Thakur,Jagdish Nagar,Navi Mumbai,Maharashtra,410216,"1,200.00", -   , -   ,144,109,"1,453.00",Amazon
+2024-0225,28-05-2024,C00890,Halappa Sonkar,V K Bhavan,Mumbai,Maharashtra,400010,100, -   , -   ,12,101,213,Online
+2024-0226,30-05-2024,C00891,Rin Singh,Chakala,Mumbai,Maharashtra,400093,400, -   , -   ,48,103,551,Amazon
+2024-0227,30-05-2024,C00726,Sadhan Pratap,Anandi,Vadodara,Gujarat,391110,200, -   , -   ,24,101,325,Online
+2024-0228,30-05-2024,C00775,Moina Tiwari,Nhava,Navi Mumbai,Maharashtra,410206,200, -   , -   ,24,101,325,Amazon
+2024-0229,30-05-2024,C00727,Anurudh Rai,Mahim East,Mumbai,Maharashtra,400016,"2,400.00", -   , -   ,288,107,"2,795.00",Online
+2024-0230,30-05-2024,C00728,Md Ansar Yadav,Pathraj,Navi Mumbai,Maharashtra,410201,"1,500.00", -   , -   ,180,104.5,"1,784.50",Amazon
+2024-0231,30-05-2024,C00730,Ashish Raj Mishra,Naigaon,Nasik,Maharashtra,422102,900, -   , -   ,108,103,"1,111.00",Amazon
+2024-0232,30-05-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,100, -   , -   ,12,101,213,Amazon
+2024-0233,30-05-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,800, -   , -   ,96,104,"1,000.00",Amazon
+2024-0234,31-05-2024,C00892,Mersal Yadav,Nagardas Road,Mumbai,Maharashtra,400069,"1,300.00", -   , -   ,156,105,"1,561.00",Amazon
+2024-0235,01-06-2024,C00792,Siddiq Tiwari,Naroda,Ahmedabad,Gujarat,382330,"1,250.00", -   , -   ,150,107.5,"1,507.50",Amazon
+2024-0236,01-06-2024,C00893,Ariba Singh,Mahim,Mumbai,Maharashtra,400016,"1,100.00", -   , -   ,132,105,"1,337.00",Online
+2024-0237,02-06-2024,C00894,Savai Kumar,Kondivade,Navi Mumbai,Maharashtra,410201,900,20,180,108,106.5,934.5,Online
+2024-0238,02-06-2024,C00760,Saji Kumar,Colaba,Mumbai,Maharashtra,-,350, -   , -   ,42,103.5,495.5,Amazon
+2024-0239,04-06-2024,C00895,Jaykishor Devi,Mulund Colony,Mumbai,Maharashtra,400082,"1,300.00", -   , -   ,156,103.5,"1,559.50",Online
+2024-0240,05-06-2024,C00896,Sneha Gupta,Tarapur App,Palghar,Maharashtra,401504,"2,350.00",10,235,282,107.5,"2,504.50",Online
+2024-0241,06-06-2024,C00803,Dheerendra Kumari,Shelu,Navi Mumbai,Maharashtra,410101,750, -   , -   ,90,107.5,947.5,Online
+2024-0242,07-06-2024,C00897,Yaduvanshi Mishra,Girgaon,Mumbai,Maharashtra,400004,300, -   , -   ,36,103,439,Amazon
+2024-0243,09-06-2024,C00898,Satyprakash Rajput,Shirur Tajband,Osmanabad,Maharashtra,413514,750,20,150,90,106.5,796.5,Amazon
+2024-0244,11-06-2024,C00899,Madhaba Pandit,Nerul,Thane,Maharashtra,400706,"1,000.00", -   , -   ,120,106,"1,226.00",Online
+2024-0245,12-06-2024,C00733,Imteyaz Yadav,Kandivali East,Mumbai,Maharashtra,400067,850, -   , -   ,102,104.5,"1,056.50",Online
+2024-0246,13-06-2024,C00900,Uv Thakur,Mahim Bazar,Mumbai,Maharashtra,400016,200, -   , -   ,24,102,326,Online
+2024-0247,14-06-2024,C00787,Mabasha Vishwakarma,Plasva,Junagadh,Gujarat,362015,"1,700.00", -   , -   ,204,105,"2,009.00",Amazon
+2024-0248,14-06-2024,C00771,Tapos Devi,Juhu,Mumbai,Maharashtra,400049,"1,850.00", -   , -   ,222,109.5,"2,181.50",Online
+2024-0249,14-06-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,300, -   , -   ,36,101.5,437.5,Amazon
+2024-0250,14-06-2024,C00827,Anant Kumar Rajput,Matheran,Navi Mumbai,Maharashtra,410102,150, -   , -   ,18,101.5,269.5,Online
+2024-0251,14-06-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,400, -   , -   ,48,102,550,Amazon
+2024-0252,15-06-2024,C00901,Azarudeen Thakur,Sunder Nagari,Delhi East,Delhi,110093,850, -   , -   ,102,105.5,"1,057.50",Amazon
+2024-0253,16-06-2024,C00769,Nripen Tiwari,Wavandhal,Navi Mumbai,Maharashtra,410206,500, -   , -   ,60,104,664,Amazon
+2024-0254,18-06-2024,C00902,Ranjet Vishwakarma,Wadala,Mumbai,Maharashtra,400031,300, -   , -   ,36,101,437,Amazon
+2024-0255,18-06-2024,C00792,Sivamani Rai,Naroda,Ahmedabad,Gujarat,382330,500, -   , -   ,60,102.5,662.5,Online
+2024-0256,19-06-2024,C00903,Gonu Devi,Nerul,Thane,Maharashtra,400706,900,20,180,108,103,931,Amazon
+2024-0257,20-06-2024,C00811,Dipanwita Thakur,Kidwai Nagar,Mumbai,Maharashtra,400031,"1,000.00", -   , -   ,120,102.5,"1,222.50",Online
+2024-0258,20-06-2024,C00904,Udhayakumar Divedi,Sirkonda,Adilabad,Telangana,504307,"3,000.00",20,600,360,108,"2,868.00",Amazon
+2024-0259,20-06-2024,C00905,Omprakash Kumar Pandit,Mulund East,Mumbai,Maharashtra,400081,"2,550.00", -   , -   ,306,106.5,"2,962.50",Amazon
+2024-0260,21-06-2024,C00906,Arhat Seth,Ghargaon,Ahmednagar,Maharashtra,413728,400, -   , -   ,48,104,552,Amazon
+2024-0261,22-06-2024,C00907,Prantik Singh,Sittalarai,Srirangam,Tamil Nadu,621211,450, -   , -   ,54,103.5,607.5,Amazon
+2024-0262,23-06-2024,C00828,Motilal Mishra,Jaskhar,Navi Mumbai,Maharashtra,400707,"1,300.00",20,260,156,103.5,"1,299.50",Online
+2024-0263,23-06-2024,C00908,Shriniwas Rai,Kondapur,Hyderabad,Telangana,500008,500, -   , -   ,60,101,661,Amazon
+2024-0264,24-06-2024,C00909,Jyoti Prasad Sonkar,Durganagar,Kolkata,West Bengal,700065,100,10,10,12,101,203,Amazon
+2024-0265,24-06-2024,C00910,Kancharla Tiwari,Borivali East,Mumbai,Maharashtra,400066,"1,400.00", -   , -   ,168,108,"1,676.00",Online
+2024-0266,25-06-2024,C00911,Vadla Divedi,Jhuratarai,Raipur,Chattisgarh,493773,"1,650.00", -   , -   ,198,104.5,"1,952.50",Amazon
+2024-0267,26-06-2024,C00912,Mehta Rai,Dahisar,Mumbai,Maharashtra,400068,"1,100.00", -   , -   ,132,105,"1,337.00",Amazon
+2024-0268,27-06-2024,C00913,Subhodeep Mishra,Kalyanpur Tentulmuri,Contai,West Bengal,721447,300, -   , -   ,36,103,439,Amazon
+2024-0269,27-06-2024,C00914,Shivpal Thakur,RANI BIRGAWAN ,Morena,Madhya Pradesh,477555,"1,050.00", -   , -   ,126,103.5,"1,279.50",Online
+2024-0270,28-06-2024,C00875,Anandita Tiwari,Bhandup East,Mumbai,Maharashtra,400042,700, -   , -   ,84,104,888,Online
+2024-0271,28-06-2024,C00915,Munin Pandit,Ramkot,Sitapur,Uttar Pradesh,261001,750, -   , -   ,90,104.5,944.5,Online
+2024-0272,28-06-2024,C00916,Ravindra Singh Singh,C G S Colony,Mumbai,Maharashtra,400037,"2,100.00",20,420,252,106.5,"2,038.50",Online
+2024-0273,29-06-2024,C00917,Ariful Thakur,Mori Road,Mumbai,Maharashtra,400016,600, -   , -   ,72,103,775,Amazon
+2024-0274,29-06-2024,C00775,Moina Tiwari,Nhava,Navi Mumbai,Maharashtra,410206,"1,500.00",10,150,180,104.5,"1,634.50",Amazon
+2024-0275,29-06-2024,C00727,Anurudh Rai,Mahim East,Mumbai,Maharashtra,400016,300,20,60,36,101,377,Online
+2024-0276,29-06-2024,C00728,Md Ansar Yadav,Pathraj,Navi Mumbai,Maharashtra,410201,900, -   , -   ,108,103,"1,111.00",Amazon
+2024-0277,29-06-2024,C00730,Ashish Raj Mishra,Naigaon,Nasik,Maharashtra,422102,300,10,30,36,101.5,407.5,Amazon
+2024-0278,29-06-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,300, -   , -   ,36,102,438,Amazon
+2024-0279,29-06-2024,C00827,Anant Kumar Rajput,Matheran,Navi Mumbai,Maharashtra,410102,200, -   , -   ,24,101,325,Online
+2024-0280,29-06-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,300, -   , -   ,36,101.5,437.5,Amazon
+2024-0281,30-06-2024,C00918,Bivas Seth,Tharoda,Bhilwara,Rajasthan,311602,650, -   , -   ,78,106.5,834.5,Amazon
+2024-0282,02-07-2024,C00919,Asif Khan Kumari,Rui,Satara,Maharashtra,415501,600, -   , -   ,72,106,778,Amazon
+2024-0283,02-07-2024,C00920,Maddela Rajput,Dahivali,Navi Mumbai,Maharashtra,410201,"1,100.00", -   , -   ,132,106,"1,338.00",Amazon
+2024-0284,03-07-2024,C00921,Anshu Singh,Chandial,Ahmedabad,Gujarat,382433,100,20,20,12,101,193,Amazon
+2024-0285,05-07-2024,C00922,Hiranmoy Thakur,Durganagar,Kolkata,West Bengal,700065,"1,450.00", -   , -   ,174,104,"1,728.00",Online
+2024-0286,05-07-2024,C00921,Anshu Singh,Chandial,Ahmedabad,Gujarat,382433,"1,500.00", -   , -   ,180,108,"1,788.00",Amazon
+2024-0287,06-07-2024,C00923,Pg Mishra,Nerul,Thane,Maharashtra,400706,"1,550.00", -   , -   ,186,106.5,"1,842.50",Online
+2024-0288,06-07-2024,C00924,Farjana Pratap,Kegaon,Navi Mumbai,Maharashtra,400702,"1,200.00", -   , -   ,144,106,"1,450.00",Amazon
+2024-0289,06-07-2024,C00925,Nempal Pratap,Haines Road,Mumbai,Maharashtra,400011,800, -   , -   ,96,106,"1,002.00",Amazon
+2024-0290,09-07-2024,C00767,Gungun Sonkar,Gandhinagar Sector 30,Gandhinagar,Gujarat,382030,"1,750.00", -   , -   ,210,107.5,"2,067.50",Online
+2024-0291,11-07-2024,C00926,Md Naseem Tiwari,L B S N E collage,Mumbai,Maharashtra,400033,250,20,50,30,105,335,Amazon
+2024-0292,11-07-2024,C00767,Gungun Sonkar,Gandhinagar Sector 30,Gandhinagar,Gujarat,382030,300, -   , -   ,36,103,439,Online
+2024-0293,12-07-2024,C00927,Smit Devi,Taloja A.V.,Navi Mumbai,Maharashtra,410208,"1,000.00", -   , -   ,120,103,"1,223.00",Amazon
+2024-0294,12-07-2024,C00812,Trilok Singh Thakur,B P T Colony,Mumbai,Maharashtra,400037,400, -   , -   ,48,101,549,Amazon
+2024-0295,14-07-2024,C00928,Hakkim Rai,DPI,Chennai,Tamil Nadu,600006,200, -   , -   ,24,102,326,Online
+2024-0296,14-07-2024,C00818,Tajamul Sonkar,N.S.Karanja,Navi Mumbai,Maharashtra,400704,"1,900.00", -   , -   ,228,105,"2,233.00",Amazon
+2024-0297,14-07-2024,C00827,Anant Kumar Rajput,Matheran,Navi Mumbai,Maharashtra,410102,150,20,30,18,101.5,239.5,Online
+2024-0298,14-07-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,300, -   , -   ,36,101.5,437.5,Amazon
+2024-0299,15-07-2024,C00929,Anam Kumar,Civil Lines,Budaun,Uttar Pradesh,243601,"1,500.00", -   , -   ,180,106,"1,786.00",Amazon
+2024-0300,16-07-2024,C00930,Rajadurai Mishra,Audit Bhavan,Mumbai,Maharashtra,400051,600, -   , -   ,72,103.5,775.5,Amazon
+2024-0301,16-07-2024,C00931,Mohd Iqbal Kumari,Hussainabad,Lucknow,Uttar Pradesh,226003,"2,550.00", -   , -   ,306,106.5,"2,962.50",Amazon
+2024-0302,17-07-2024,C00932,Balamurali Pratap,Kheri Karmu,Muzaffarnagar,Uttar Pradesh,247776,"2,200.00",20,440,264,107,"2,131.00",Amazon
+2024-0303,17-07-2024,C00933,Divyank Sonkar,MPT,Mumbai,Maharashtra,400001,750,10,75,90,106,871,Amazon
+2024-0304,17-07-2024,C00934,Safiullah Kumari,Sahar P and T Colony,Mumbai,Maharashtra,400099,400, -   , -   ,48,101,549,Amazon
+2024-0305,18-07-2024,C00758,Toran Tiwari,Madh,Mumbai,-,400061,400, -   , -   ,48,103,551,Online
+2024-0306,20-07-2024,C00766,Nrisingh Pandey,Hanuman Road,Mumbai,Maharashtra,400057,100, -   , -   ,12,101,213,Amazon
+2024-0307,22-07-2024,C00935,Jiaur Pandey,Ulwa,Navi Mumbai,Maharashtra,410206,"1,500.00", -   , -   ,180,57,"1,737.00",Amazon
+2024-0308,22-07-2024,C00757,Kishor Srivastav,Hathini,Rohtas,Bihar,802215,"1,700.00", -   , -   ,204,104,"2,008.00",Online
+2024-0309,23-07-2024,C00936,Jiyaul Thakur,Worli Naka,Mumbai,Maharashtra,400018,550, -   , -   ,66,104,720,Online
+2024-0310,25-07-2024,C00864,Dharmend Tiwari,Naigaon,Mumbai,Maharashtra,400014,"1,100.00",20,220,132,107,"1,119.00",Online
+2024-0311,26-07-2024,C00937,Sanjaysinh Yadav,Katakbhavi,Chikodi,Karnataka,591222,"1,200.00", -   , -   ,144,104,"1,448.00",Amazon
+2024-0312,26-07-2024,C00938,Samol Singh,Nanodara,Gandhinagar,Gujarat,382220,"2,000.00",20,400,240,106.5,"1,946.50",Amazon
+2024-0313,27-07-2024,C00842,Ekavali Pandey,Sarvoday Kendra,Sabarkantha,Gujarat,383355,300, -   , -   ,36,103,439,Online
+2024-0314,28-07-2024,C00939,Dharm Singh Pandey,S S K Sangli,SANGLI,Maharashtra,416416,850, -   , -   ,102,106,"1,058.00",Online
+2024-0315,29-07-2024,C00726,Sadhan Pratap,Anandi,Vadodara,Gujarat,391110,"1,000.00", -   , -   ,120,103,"1,223.00",Online
+2024-0316,29-07-2024,C00728,Md Ansar Yadav,Pathraj,Navi Mumbai,Maharashtra,410201,600, -   , -   ,72,103,775,Amazon
+2024-0317,29-07-2024,C00730,Ashish Raj Mishra,Naigaon,Nasik,Maharashtra,422102,"1,800.00", -   , -   ,216,105.5,"2,121.50",Amazon
+2024-0318,29-07-2024,C00827,Anant Kumar Rajput,Matheran,Navi Mumbai,Maharashtra,410102,800, -   , -   ,96,104,"1,000.00",Online
+2024-0319,30-07-2024,C00940,Julekha Thakur,Apta,Navi Mumbai,Maharashtra,410207,"1,000.00", -   , -   ,120,104,"1,224.00",Online
+2024-0320,30-07-2024,C00733,Imteyaz Yadav,Kandivali East,Mumbai,Maharashtra,400067,"1,200.00", -   , -   ,144,103,"1,447.00",Online
+2024-0321,30-07-2024,C00941,Surendrasinh Rao,Chandial,Ahmedabad,Gujarat,382433,"1,100.00", -   , -   ,132,104,"1,336.00",Amazon
+2024-0322,02-08-2024,C00942,Dasharathi Seth,Malad,Mumbai,Maharashtra,400064,650, -   , -   ,78,105.5,833.5,Amazon
+2024-0323,02-08-2024,C00943,Romen Srivastav,Mahul Road,Mumbai,Maharashtra,400074,200, -   , -   ,24,102,326,Amazon
+2024-0324,03-08-2024,C00939,Dharm Singh Pandey,S S K Sangli,SANGLI,Maharashtra,416416,750, -   , -   ,90,101.5,941.5,Online
+2024-0325,04-08-2024,C00944,Santosh Singh Divedi,Prabhadevi,Mumbai,-,400025,900, -   , -   ,108,103,"1,111.00",Amazon
+2024-0326,04-08-2024,C00945,Sikandra Seth,Worli Naka,Mumbai,Maharashtra,400018,"1,400.00", -   , -   ,168,106,"1,674.00",Online
+2024-0327,07-08-2024,C00946,Habibar Rajput,Airoli,Thane,Maharashtra,400708,850, -   , -   ,102,103.5,"1,055.50",Amazon
+2024-0328,08-08-2024,C00947,Dhirubhai Seth,Jogeshwari West,Mumbai,Maharashtra,-,650, -   , -   ,78,103.5,831.5,Online
+2024-0329,08-08-2024,C00820,Deepmala Vishwakarma,Mori Road,Mumbai,Maharashtra,400016,700,10,70,84,103.5,817.5,Online
+2024-0330,09-08-2024,C00948,Sabana Maurya,Dahivali,Navi Mumbai,Maharashtra,410201,"1,250.00", -   , -   ,150,107.5,"1,507.50",Amazon
+2024-0331,09-08-2024,C00733,Imteyaz Yadav,Kandivali East,Mumbai,Maharashtra,400067,700,10,70,84,107,821,Online
+2024-0332,11-08-2024,C00760,Saji Kumar,Colaba,Mumbai,Maharashtra,400005,300,20,60,36,103,379,Amazon
+2024-0333,12-08-2024,C00949,Atu Tiwari,Reay Road,Mumbai,Maharashtra,400033,"1,850.00", -   , -   ,222,105.5,"2,177.50",Online
+2024-0334,13-08-2024,C00769,Nripen Tiwari,Wavandhal,Navi Mumbai,Maharashtra,410206,"1,100.00", -   , -   ,132,106.5,"1,338.50",Amazon
+2024-0335,13-08-2024,C00778,Pinki Maurrya,Dadar,Mumbai,Maharashtra,400014,300, -   , -   ,36,101,437,Online
+2024-0336,13-08-2024,C00827,Anant Kumar Rajput,Matheran,Navi Mumbai,Maharashtra,410102,300, -   , -   ,36,101.5,437.5,Online
+2024-0337,13-08-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,200,10,20,24,101,305,Amazon
+2024-0338,14-08-2024,C00758,Toran Tiwari,Madh,Mumbai,Maharashtra,400061,400, -   , -   ,48,102,550,Online
+2024-0339,16-08-2024,C00950,Tanka Devi,Dhanoura,Bhagalpur,Bihar,813204,"1,600.00", -   , -   ,192,102,"1,894.00",Amazon
+2024-0340,16-08-2024,C00951,Shriya Srivastav,Nerul,Thane,Maharashtra,400706,"1,000.00", -   , -   ,120,104,"1,224.00",Amazon
+2024-0341,16-08-2024,C00842,Ekavali Pandey,Sarvoday Kendra,Sabarkantha,Gujarat,383355,750,10,75,90,105.5,870.5,Online
+2024-0342,17-08-2024,C00952,Jubaraj Kumar,Kalachowki,Mumbai,Maharashtra,400033,400, -   , -   ,48,102,550,Online
+2024-0343,19-08-2024,C00953,Deepashikha Thakur,Gomtipur,Ahmedabad,Gujarat,380021,"1,300.00", -   , -   ,156,108,"1,564.00",Amazon
+2024-0344,20-08-2024,C00930,Rajadurai Mishra,Audit Bhavan,Mumbai,Maharashtra,400051,400, -   , -   ,48,104,552,Amazon
+2024-0345,22-08-2024,C00799,Tejpratap Tiwari,Pashane,Navi Mumbai,Maharashtra,410101,750,10,75,90,104.5,869.5,Amazon
+2024-0346,22-08-2024,C00954,Jyotsna Mishra,S R P F Camp,Mumbai,Maharashtra,400065,400, -   , -   ,48,104,552,Amazon
+2024-0347,23-08-2024,C00740,Nilutpal Pratap,Morbe,Navi Mumbai,Maharashtra,410206,"1,300.00", -   , -   ,156,105,"1,561.00",Online
+2024-0348,23-08-2024,C00955,Viraj Divedi,Panvel,Navi Mumbai,Maharashtra,410206,"2,150.00", -   , -   ,258,107,"2,515.00",Amazon
+2024-0349,24-08-2024,C00956,Mydeen Pandey,Thakurdwar,Mumbai,Maharashtra,400002,"1,600.00", -   , -   ,192,104,"1,896.00",Online
+2024-0350,25-08-2024,C00957,Alok Nath Pandey,Mallannur,Thalassery,Kerala,670701,"1,950.00",40,780,234,106.5,"1,510.50",Amazon
+2024-0351,25-08-2024,C00815,Zohan Pandey,Netaji Nagar,Mumbai,Maharashtra,400070,200,20,40,24,101,285,Online
+2024-0352,26-08-2024,C00757,Kishor Srivastav,Hathini,Rohtas,Bihar,802215,750,40,300,90,102.5,642.5,Online
+2024-0353,27-08-2024,C00958,Shamu Sonkar,Bhavarkheda,Jalgaon,Maharashtra,425109,"1,900.00",10,190,228,105,"2,043.00",Amazon
+2024-0354,27-08-2024,C00959,Dolon Singh,Kunnamkary,Changanacherry,Kerala,686102,200,20,40,24,102,286,Amazon
+2024-0355,28-08-2024,C00858,Radhey Gupta,Mandvi,Mumbai,Maharashtra,400003,"1,800.00", -   , -   ,216,104.5,"2,120.50",Online
+2024-0356,28-08-2024,C00960,Vajay Vishwakarma,Chadoli,Dungarpur,Rajasthan,314027,"1,300.00", -   , -   ,156,107.5,"1,563.50",Amazon
+2024-0357,28-08-2024,C00726,Sadhan Pratap,Anandi,Vadodara,Gujarat,391110,600, -   , -   ,72,103,775,Online
+2024-0358,28-08-2024,C00727,Anurudh Rai,Mahim East,Mumbai,Maharashtra,400016,"1,800.00", -   , -   ,216,109,"2,125.00",Online
+2024-0359,28-08-2024,C00728,Md Ansar Yadav,Pathraj,Navi Mumbai,Maharashtra,410201,900, -   , -   ,108,103,"1,111.00",Amazon
+2024-0360,28-08-2024,C00729,Sagun Rajput,DM Colony,Mumbai,Maharashtra,400043,500, -   , -   ,60,101,661,Online
+2024-0361,28-08-2024,C00730,Ashish Raj Mishra,Naigaon,Nasik,Maharashtra,422102,"1,800.00", -   , -   ,216,106,"2,122.00",Amazon
+2024-0362,28-08-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,150, -   , -   ,18,101.5,269.5,Amazon
+2024-0363,28-08-2024,C00827,Anant Kumar Rajput,Matheran,Navi Mumbai,Maharashtra,410102,300,10,30,36,101.5,407.5,Online
+2024-0364,28-08-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,400, -   , -   ,48,102,550,Amazon
+2024-0365,29-08-2024,C00961,Parween Sonkar,Akola,Agra,Uttar Pradesh,283102,"1,000.00",10,100,120,107,"1,127.00",Online
+2024-0366,30-08-2024,C00962,Ayon Rajput,Kumathe,Solapur,Maharashtra,413224,150, -   , -   ,18,101.5,269.5,Amazon
+2024-0367,30-08-2024,C00963,Riyajuddin Vishwakarma,Setha Kalan,Faizabad,Uttar Pradesh,224159,"1,600.00", -   , -   ,192,107,"1,899.00",Amazon
+2024-0368,31-08-2024,C00865,M J Maurya,Sugawe,Navi Mumbai,Maharashtra,410201,400, -   , -   ,48,103,551,Amazon
+2024-0369,01-09-2024,C00754,Dheena Seth,Sugawe,Navi Mumbai,Maharashtra,410201,"1,150.00", -   , -   ,138,105.5,"1,393.50",Online
+2024-0370,01-09-2024,C00964,Boudhayan Sonkar,Rajpur,Bhagalpur,Gujarat,813101,"1,200.00",10,120,144,105.5,"1,329.50",Amazon
+2024-0371,01-09-2024,C00965,Pruthvirajsinh Vishwakarma,Barapada,Navi Mumbai,Maharashtra,410221,800, -   , -   ,96,106,"1,002.00",Amazon
+2024-0372,04-09-2024,C00966,Gudda Rajput,Sidhi,Shahdol,Madhya Pradesh,486661,"2,850.00",10,285,342,106.5,"3,013.50",Amazon
+2024-0373,04-09-2024,C00757,Kishor Srivastav,Hathini,Rohtas,Bihar,802215,750, -   , -   ,90,102.5,942.5,Online
+2024-0374,05-09-2024,C00967,Raa Rajput,Pimpalkotha,Jalgaon,Maharashtra,425103,"1,200.00", -   , -   ,144,103.5,"1,447.50",Amazon
+2024-0375,06-09-2024,C00792,Siddiq Tiwari,Naroda,Ahmedabad,Gujarat,382330,400,20,80,48,104,472,Amazon
+2024-0376,06-09-2024,C00872,Harini Rai,Sahar P and T Colony,Mumbai,Maharashtra,400099,350, -   , -   ,42,103.5,495.5,Amazon
+2024-0377,07-09-2024,C00757,Kishor Srivastav,Hathini,Rohtas,Bihar,802215,800,10,80,96,103,919,Online
+2024-0378,08-09-2024,C00968,Moinuddin Seth,Chembur,Mumbai,Maharashtra,400089,950,20,190,114,104.5,978.5,Amazon
+2024-0379,10-09-2024,C00969,Pravas Mishra,Kelevane,Navi Mumbai,Maharashtra,410206,900, -   , -   ,108,104.5,"1,112.50",Amazon
+2024-0380,12-09-2024,C00970,Sarmila Mishra,Mohanpur Ratanpur,Fatehgarh,Uttar Pradesh,209722,850, -   , -   ,102,104.5,"1,056.50",Online
+2024-0381,12-09-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,800, -   , -   ,96,104,"1,000.00",Amazon
+2024-0382,12-09-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,200,20,40,24,101,285,Amazon
+2024-0383,14-09-2024,C00823,Irrfan Seth,Ambewadi,Mumbai,Maharashtra,400004,900, -   , -   ,108,103,"1,111.00",Amazon
+2024-0384,15-09-2024,C00971,Sulman Seth,Santacruz(East),Mumbai,Maharashtra,400055,"1,300.00", -   , -   ,156,106,"1,562.00",Amazon
+2024-0385,16-09-2024,C00754,Dheena Seth,Sugawe,Navi Mumbai,Maharashtra,410201,500, -   , -   ,60,105,665,Online
+2024-0386,17-09-2024,C00758,Toran Tiwari,Madh,Mumbai,Maharashtra,400061,"2,000.00", -   , -   ,240,104,"2,344.00",Online
+2024-0387,18-09-2024,C00972,Jisu Seth,L C Hathras,Aligarh,Uttar Pradesh,204101,"1,800.00",10,180,216,107,"1,943.00",Amazon
+2024-0388,18-09-2024,C00767,Gungun Sonkar,Gandhinagar Sector 30,Gandhinagar,Gujarat,382030,"2,800.00", -   , -   ,336,108.5,"3,244.50",Online
+2024-0389,19-09-2024,C00973,Ramanji Pratap,Uparwahi,Nagpur Moffusil,Maharashtra,441501,"1,000.00", -   , -   ,120,102.5,"1,222.50",Amazon
+2024-0390,20-09-2024,C00974,Mahendra Singh Divedi,Colaba,Mumbai,Maharashtra,400005,"1,250.00", -   , -   ,150,102.5,"1,502.50",Online
+2024-0391,23-09-2024,C00975,Shachin Srivastav,Gachibowli,Hyderabad,Telangana,500032,"2,550.00", -   , -   ,306,105.5,"2,961.50",Amazon
+2024-0392,23-09-2024,C00976,Lavisha Pandey,Bandra West,Mumbai,Maharashtra,400051,"1,100.00", -   , -   ,132,107,"1,339.00",Online
+2024-0393,24-09-2024,C00977,Hamanta Devi,Nagardas Road,Mumbai,Maharashtra,400069,100,20,20,12,101,193,Amazon
+2024-0394,25-09-2024,C00978,Kashika Rai,Bhagwala,Etah,Uttar Pradesh,207003,600, -   , -   ,72,104,776,Amazon
+2024-0395,26-09-2024,C00979,Daizy Gupta,Chang,Pali,Rajasthan,306102,600, -   , -   ,72,105,777,Amazon
+2024-0396,27-09-2024,C00726,Sadhan Pratap,Anandi,Vadodara,Gujarat,391110,"2,700.00", -   , -   ,324,109,"3,133.00",Online
+2024-0397,27-09-2024,C00775,Moina Tiwari,Nhava,Navi Mumbai,Maharashtra,410206,"2,050.00", -   , -   ,246,107.5,"2,403.50",Amazon
+2024-0398,27-09-2024,C00727,Anurudh Rai,Mahim East,Mumbai,Maharashtra,400016,700, -   , -   ,84,103,887,Online
+2024-0399,27-09-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,600, -   , -   ,72,104,776,Amazon
+2024-0400,27-09-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,150, -   , -   ,18,101.5,269.5,Amazon
+2024-0401,28-09-2024,C00980,Sumanth Rao,Charkop,Mumbai,Maharashtra,400067,200, -   , -   ,24,101,325,Online
+2024-0402,29-09-2024,C00981,Velayutham Divedi,Kelevane,Navi Mumbai,Maharashtra,410206,"1,850.00", -   , -   ,222,105.5,"2,177.50",Amazon
+2024-0403,29-09-2024,C00982,Rajpurohit Maurya,Princess Dock,Mumbai,Maharashtra,400009,"1,100.00", -   , -   ,132,104.5,"1,336.50",Amazon
+2024-0404,29-09-2024,C00842,Ekavali Pandey,Sarvoday Kendra,Sabarkantha,Gujarat,383355,350, -   , -   ,42,103.5,495.5,Online
+2024-0405,30-09-2024,C00983,Supratim Maurya,Pant Nagar,Mumbai,Maharashtra,400075,"1,250.00", -   , -   ,150,105,"1,505.00",Amazon
+2024-0406,30-09-2024,C00984,Shibsankar Seth,B.N. Bhavan,Mumbai,Maharashtra,400051,"1,250.00", -   , -   ,150,104.5,"1,504.50",Amazon
+2024-0407,01-10-2024,C00985,Rax Pandit,Shelu,Navi Mumbai,Maharashtra,410101,600, -   , -   ,72,104,776,Amazon
+2024-0408,03-10-2024,C00986,Jayu Thakur,Khambewadi,Navi Mumbai,Maharashtra,410203,500,20,100,60,102.5,562.5,Amazon
+2024-0409,04-10-2024,C00937,Sanjaysinh Yadav,Katakbhavi,Chikodi,Karnataka,591222,"1,600.00", -   , -   ,192,105.5,"1,897.50",Amazon
+2024-0410,06-10-2024,C00766,Nrisingh Pandey,Hanuman Road,Mumbai,Maharashtra,400057,"1,600.00",20,320,192,106,"1,578.00",Amazon
+2024-0411,06-10-2024,C00987,Mitra Pandey,Pathraj,Navi Mumbai,Maharashtra,410201,"1,000.00",10,100,120,106,"1,126.00",Amazon
+2024-0412,06-10-2024,C00988,Herry Srivastav,Vikhroli,-,Maharashtra,400079,200,20,40,24,102,286,Amazon
+2024-0413,06-10-2024,C00989,Azimuddin Mishra,Tiware,Navi Mumbai,Maharashtra,410201,200,10,20,24,101,305,Amazon
+2024-0414,07-10-2024,C00990,Dinanath Sonkar,Worli Naka,Mumbai,Maharashtra,400018,300,40,120,36,101.5,317.5,Online
+2024-0415,08-10-2024,C00991,Bhaiyalal Thakur,Agripada,Mumbai,Maharashtra,400011,450,20,90,54,104.5,518.5,Online
+2024-0416,09-10-2024,C00992,Ammulu Rao,S V Marg,Mumbai,Maharashtra,400007,600,30,180,72,104.5,596.5,Amazon
+2024-0417,09-10-2024,C00993,Aalok Srivastav,Kegaon,Navi Mumbai,Maharashtra,400702,450,20,90,54,104.5,518.5,Amazon
+2024-0418,09-10-2024,C00994,Chandrachur Rajput,Tagore Nagar,Mumbai,Maharashtra,400083,600,10,60,72,103,715,Amazon
+2024-0419,09-10-2024,C00995,Ragupathi Sonkar,Sahakar Bhavan,Mumbai,Maharashtra,400086,500,20,100,60,101,561,Online
+2024-0420,10-10-2024,C00996,Gopaal Srivastav,Worli,Mumbai,Maharashtra,400018,"1,100.00",20,220,132,104.5,"1,116.50",Online
+2024-0421,10-10-2024,C00873,Champalal Kumari,Rajpura,Sikar,Rajasthan,332023,"1,850.00", -   , -   ,222,109.5,"2,181.50",Online
+2024-0422,11-10-2024,C00997,Md Amir Pandey,Dighode,Navi Mumbai,Maharashtra,410206,500,10,50,60,103,613,Online
+2024-0423,11-10-2024,C00799,Tejpratap Tiwari,Pashane,Navi Mumbai,Maharashtra,410101,650,20,130,78,105.5,703.5,Amazon
+2024-0424,11-10-2024,C00998,Shlok Pandey,Nerul,Thane,Maharashtra,400706,250,20,50,30,102.5,332.5,Amazon
+2024-0425,12-10-2024,C00999,Kishana Rao,Cumballa,Mumbai,Maharashtra,400026,100,40,40,12,101,173,Amazon
+2024-0426,12-10-2024,C01000,Bhagwanti Sonkar,Dahivali,Navi Mumbai,Maharashtra,410201,500,30,150,60,102,512,Online
+2024-0427,12-10-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,150,30,45,18,101.5,224.5,Amazon
+2024-0428,12-10-2024,C00827,Anant Kumar Rajput,Matheran,Navi Mumbai,Maharashtra,410102,200,30,60,24,102,266,Online
+2024-0429,13-10-2024,C01001,Mansur Seth,Panvel,Navi Mumbai,Maharashtra,410221,450,20,90,54,101.5,515.5,Online
+2024-0430,13-10-2024,C01002,Rumana Pandit,Central Building,Mumbai,Maharashtra,400020,"1,150.00",10,115,138,106.5,"1,279.50",Amazon
+2024-0431,15-10-2024,C01003,Azad Srivastav,Egapuram,Salem West,Tamil Nadu,637502,"1,600.00", -   , -   ,192,104,"1,896.00",Amazon
+2024-0432,16-10-2024,C00757,Kishor Srivastav,Hathini,Rohtas,Bihar,802215,"2,200.00",20,440,264,105.5,"2,129.50",Online
+2024-0433,16-10-2024,C01004,Triloki Rao,S V Marg,Mumbai,Maharashtra,400007,350,10,35,42,103.5,460.5,Online
+2024-0434,18-10-2024,C01005,Amar Kumar Maurya,Mohopada,Navi Mumbai,Maharashtra,410222,"1,400.00", -   , -   ,168,103.5,"1,671.50",Amazon
+2024-0435,20-10-2024,C01006,Sadeeq Srivastav,Guradia Joga,Kota,Rajasthan,326512,400, -   , -   ,48,104,552,Amazon
+2024-0436,21-10-2024,C00825,Mahas Rai,Jasai,Navi Mumbai,Maharashtra,410206,750,20,150,90,104.5,794.5,Amazon
+2024-0437,22-10-2024,C01007,Jayant Yadav,Worli Sea Face,-,-,400030,600, -   , -   ,72,103.5,775.5,Amazon
+2024-0438,24-10-2024,C01008,Rin Divedi,Girgaon,Mumbai,Maharashtra,400004,650, -   , -   ,78,104.5,832.5,Amazon
+2024-0439,25-10-2024,C00778,Pinki Maurrya,Dadar,Mumbai,Maharashtra,400014,"1,150.00", -   , -   ,138,105.5,"1,393.50",Online
+2024-0440,26-10-2024,C01009,Srushti Sonkar,Godagari,Murshidabad,West Bengal,742305,"1,100.00", -   , -   ,132,103.5,"1,335.50",Online
+2024-0441,27-10-2024,C00726,Sadhan Pratap,Anandi,Vadodara,Gujarat,391110,600, -   , -   ,72,102,774,Online
+2024-0442,27-10-2024,C00775,Moina Tiwari,Nhava,Navi Mumbai,Maharashtra,410206,"2,100.00", -   , -   ,252,106,"2,458.00",Amazon
+2024-0443,27-10-2024,C00727,Anurudh Rai,Mahim East,Mumbai,Maharashtra,400016,500, -   , -   ,60,101,661,Online
+2024-0444,27-10-2024,C00728,Md Ansar Yadav,Pathraj,Navi Mumbai,Maharashtra,410201,300, -   , -   ,36,101.5,437.5,Amazon
+2024-0445,27-10-2024,C00730,Ashish Raj Mishra,Naigaon,Nasik,Maharashtra,422102,"2,400.00", -   , -   ,288,109,"2,797.00",Amazon
+2024-0446,27-10-2024,C00827,Anant Kumar Rajput,Matheran,Navi Mumbai,Maharashtra,410102,200,10,20,24,101,305,Online
+2024-0447,27-10-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,300, -   , -   ,36,102,438,Amazon
+2024-0448,28-10-2024,C01010,Gorakshanath Srivastav,Mandapeshwar,Mumbai,Maharashtra,400103,200, -   , -   ,24,101,325,Amazon
+2024-0449,28-10-2024,C01011,Amitabha Thakur,Neral,Navi Mumbai,Maharashtra,410101,500, -   , -   ,60,103,663,Online
+2024-0450,29-10-2024,C01012,Afiya Rai,S R P F Camp,Mumbai,Maharashtra,400065,550, -   , -   ,66,105.5,721.5,Amazon
+2024-0451,30-10-2024,C01013,Vb Gupta,Mahul Road,Mumbai,Maharashtra,400074,450, -   , -   ,54,101.5,605.5,Online
+2024-0452,30-10-2024,C00818,Tajamul Sonkar,N.S.Karanja,Navi Mumbai,-,400704,700, -   , -   ,84,104.5,888.5,Amazon
+2024-0453,31-10-2024,C01014,Zalak Maurya,Worli,Mumbai,Maharashtra,400018,"1,850.00", -   , -   ,222,104.5,"2,176.50",Amazon
+2024-0454,01-11-2024,C01015,Rahul Pratap,Kurichy,Changanacherry,Kerala,686532,750,20,150,90,102.5,792.5,Amazon
+2024-0455,01-11-2024,C01016,Prahlad Singh Divedi,Nariman Point,Mumbai,Maharashtra,400021,900, -   , -   ,108,107.5,"1,115.50",Online
+2024-0456,02-11-2024,C00767,Gungun Sonkar,Gandhinagar Sector 30,Gandhinagar,Gujarat,382030,600,20,120,72,104,656,Online
+2024-0457,02-11-2024,C01017,Gotam Rai,RANagar,Mumbai,Maharashtra,400075,"1,950.00",30,585,234,107,"1,706.00",Amazon
+2024-0458,03-11-2024,C01018,Balkrishan Srivastav,Malad,Mumbai,Maharashtra,400064,"1,900.00",40,760,228,107,"1,475.00",Amazon
+2024-0459,03-11-2024,C01019,Raj Vishwakarma,Malad,Mumbai,Maharashtra,400064,100,10,10,12,101,203,Amazon
+2024-0460,03-11-2024,C01020,Partha Sarathi Pandit,Mojira,Gondal,Gujarat,360490,700,10,70,84,103,817,Online
+2024-0461,04-11-2024,C00766,Nrisingh Pandey,Hanuman Road,Mumbai,Maharashtra,400057,"1,250.00",40,500,150,107.5,"1,007.50",Amazon
+2024-0462,04-11-2024,C01021,Kuldep Gupta,Jagdish Nagar,Navi Mumbai,Maharashtra,410216,450,30,135,54,101.5,470.5,Amazon
+2024-0463,04-11-2024,C01022,Manasa Kumar,Kopar Khairne,Thane,Maharashtra,400709,"2,100.00",10,210,252,107,"2,249.00",Online
+2024-0464,05-11-2024,C00767,Gungun Sonkar,Gandhinagar Sector 30,Gandhinagar,Gujarat,382030,750,20,150,90,102.5,792.5,Online
+2024-0465,05-11-2024,C00832,Kavana Mishra,Chikhale,Navi Mumbai,Maharashtra,410221,600, -   , -   ,72,103,775,Amazon
+2024-0466,07-11-2024,C00788,Halpati Seth,J H Tendua,Aurangabad,Bihar,824301,600,20,120,72,106,658,Amazon
+2024-0467,08-11-2024,C01023,Goyal Maurya,RANagar,Mumbai,Maharashtra,400075,750, -   , -   ,90,102.5,942.5,Amazon
+2024-0468,08-11-2024,C01024,Aarsh Rao,Mulund East,Mumbai,Maharashtra,400081,"1,600.00", -   , -   ,192,105.5,"1,897.50",Amazon
+2024-0469,09-11-2024,C01025,Alimuddin Devi,RANagar,Mumbai,Maharashtra,400075,350,10,35,42,102.5,459.5,Amazon
+2024-0470,09-11-2024,C00939,Dharm Singh Pandey,S S K Sangli,SANGLI,Maharashtra,416416,750, -   , -   ,90,106,946,Online
+2024-0471,11-11-2024,C01026,Gurvinder Thakur,Bhandup East,Mumbai,Maharashtra,400042,"1,000.00", -   , -   ,120,102,"1,222.00",Amazon
+2024-0472,11-11-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,800, -   , -   ,96,104,"1,000.00",Amazon
+2024-0473,11-11-2024,C00942,Dasharathi Seth,Malad,Mumbai,Maharashtra,400064,850, -   , -   ,102,106,"1,058.00",Online
+2024-0474,12-11-2024,C01027,Panchram Maurya,Shamshernagar,Aurangabad,Bihar,824143,"2,900.00", -   , -   ,348,108,"3,356.00",Amazon
+2024-0475,12-11-2024,C00842,Ekavali Pandey,Sarvoday Kendra,Sabarkantha,Gujarat,383355,750,10,75,90,102.5,867.5,Online
+2024-0476,13-11-2024,C01028,Jastin Vishwakarma,Virupatchi,Dindigul,Tamil Nadu,624614,750, -   , -   ,90,102.5,942.5,Amazon
+2024-0477,14-11-2024,C01029,Swarna Maurrya,Perambur,Chennai,Tamil Nadu,600011,200, -   , -   ,24,102,326,Online
+2024-0478,15-11-2024,C00742,Gireesh Kumari,Devichapada,Navi Mumbai,Maharashtra,410208,750, -   , -   ,90,102.5,942.5,Amazon
+2024-0479,16-11-2024,C00766,Nrisingh Pandey,Hanuman Road,Mumbai,Maharashtra,400057,900, -   , -   ,108,105,"1,113.00",Amazon
+2024-0480,16-11-2024,C01030,Bhailal Pandit,Bera,Bhilwara,Rajasthan,311024,300, -   , -   ,36,101.5,437.5,Amazon
+2024-0481,17-11-2024,C01031,Subbaiah Sonkar,Thakurdwar,Mumbai,Maharashtra,400002,"1,900.00",20,380,228,107,"1,855.00",Amazon
+2024-0482,18-11-2024,C01032,Shubhajit Rao,Narol,Ahmedabad,Gujarat,382405,"1,200.00", -   , -   ,144,103,"1,447.00",Amazon
+2024-0483,18-11-2024,C00769,Nripen Tiwari,Wavandhal,Navi Mumbai,Maharashtra,410206,"1,000.00", -   , -   ,120,104.5,"1,224.50",Amazon
+2024-0484,19-11-2024,C01033,Noor Mohammad Tiwari,RANagar,Mumbai,Maharashtra,400075,750, -   , -   ,90,101.5,941.5,Amazon
+2024-0485,19-11-2024,C01034,Veeresh Mishra,Barhyachowk,Gorakhpur,Uttar Pradesh,273165,"4,050.00",20,810,486,108.5,"3,834.50",Online
+2024-0486,20-11-2024,C01035,Trinadh Gupta,B P T Colony,Mumbai,Maharashtra,400037,650,10,65,78,104.5,767.5,Amazon
+2024-0487,20-11-2024,C01036,Tripta Seth,Bangur Nagar,Mumbai,Maharashtra,400104,"1,050.00", -   , -   ,126,106.5,"1,282.50",Amazon
+2024-0488,21-11-2024,C01037,Rudrapratap Kumari,N.S.Patkar Marg,Mumbai,Maharashtra,400007,850, -   , -   ,102,106,"1,058.00",Online
+2024-0489,21-11-2024,C01038,Punya Pandit,Mundra,Kutch,Gujarat,370421,"1,100.00", -   , -   ,132,108.5,"1,340.50",Online
+2024-0490,21-11-2024,C00742,Gireesh Kumari,Devichapada,Navi Mumbai,Maharashtra,410208,500,10,50,60,102.5,612.5,Amazon
+2024-0491,22-11-2024,C01039,Bajrang Rajput,J.B. Nagar,Mumbai,Maharashtra,400059,600, -   , -   ,72,104.5,776.5,Online
+2024-0492,23-11-2024,C00882,Ishan Tiwari,Andheri Railway Station,Mumbai,Maharashtra,400058,"1,000.00", -   , -   ,120,102.5,"1,222.50",Online
+2024-0493,25-11-2024,C00733,Imteyaz Yadav,Kandivali East,Mumbai,Maharashtra,400067,"2,250.00",20,450,270,109.5,"2,179.50",Online
+2024-0494,25-11-2024,C01040,Kukku Yadav,Shirdhon,Navi Mumbai,Maharashtra,410221,"1,200.00", -   , -   ,144,106,"1,450.00",Online
+2024-0495,26-11-2024,C00726,Sadhan Pratap,Anandi,Vadodara,Gujarat,391110,"1,250.00", -   , -   ,150,104.5,"1,504.50",Online
+2024-0496,26-11-2024,C00775,Moina Tiwari,Nhava,Navi Mumbai,Maharashtra,410206,600, -   , -   ,72,102,774,Amazon
+2024-0497,26-11-2024,C00727,Anurudh Rai,Mahim East,Mumbai,Maharashtra,400016,600, -   , -   ,72,103,775,Online
+2024-0498,26-11-2024,C00728,Md Ansar Yadav,Pathraj,Navi Mumbai,Maharashtra,410201,"1,500.00", -   , -   ,180,105,"1,785.00",Amazon
+2024-0499,26-11-2024,C00731,Kaluram Rao,Malegaon Camp,Malegaon,Maharashtra,423105,200,20,40,24,102,286,Amazon
+2024-0500,26-11-2024,C00827,Anant Kumar Rajput,Matheran,Navi Mumbai,Maharashtra,410102,300, -   , -   ,36,102,438,Online
+2024-0501,26-11-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,600,20,120,72,104,656,Amazon
+2024-0502,28-11-2024,C00769,Nripen Tiwari,Wavandhal,Navi Mumbai,Maharashtra,410206,"1,000.00", -   , -   ,120,102.5,"1,222.50",Amazon
+2024-0503,29-11-2024,C00744,Umakanth Yadav,Konkan Bhavan,Thane,Maharashtra,400614,"2,200.00", -   , -   ,264,108,"2,572.00",Amazon
+2024-0504,01-12-2024,C00792,Siddiq Tiwari,Naroda,Ahmedabad,Gujarat,382330,"2,300.00", -   , -   ,276,105,"2,681.00",Amazon
+2024-0505,02-12-2024,C01041,Gaya Yadav,Ranade Road,Mumbai,Maharashtra,400028,500, -   , -   ,60,102,662,Amazon
+2024-0506,02-12-2024,C01042,Aayushman Gupta,S V Marg,Mumbai,Maharashtra,400007,"1,250.00", -   , -   ,150,105,"1,505.00",Online
+2024-0507,02-12-2024,C00893,Ariba Singh,Mahim,Mumbai,Maharashtra,400016,450, -   , -   ,54,103.5,607.5,Amazon
+2024-0508,03-12-2024,C01043,Sayaji Seth,Usha Nagar,Mumbai,Maharashtra,400078,"1,550.00", -   , -   ,186,106.5,"1,842.50",Amazon
+2024-0509,05-12-2024,C01044,Praju Rajput,Bangur Nagar,Mumbai,Maharashtra,400104,550, -   , -   ,66,103.5,719.5,Online
+2024-0510,05-12-2024,C01045,Deeraj Devi,Malad,Mumbai,Maharashtra,400064,250,20,50,30,102.5,332.5,Amazon
+2024-0511,07-12-2024,C01046,Alekhya Mishra,Tandgalu,Mandi,Himachal Pradesh,175001,"1,550.00", -   , -   ,186,106.5,"1,842.50",Amazon
+2024-0512,07-12-2024,C01047,Binati Gupta,Girgaon,Mumbai,Maharashtra,400004,"1,550.00", -   , -   ,186,106.5,"1,842.50",Online
+2024-0513,08-12-2024,C01048,Birju Thakur,Mori Road,Mumbai,Maharashtra,400016,700, -   , -   ,84,104,888,Amazon
+2024-0514,08-12-2024,C01049,Khanna Rai,S R P F Camp,Mumbai,Maharashtra,400065,500, -   , -   ,60,102.5,662.5,Amazon
+2024-0515,09-12-2024,C01050,Raj Thakur Srivastav,Cumballa,Mumbai,-,400026,700, -   , -   ,84,103,887,Amazon
+2024-0516,11-12-2024,C00827,Anant Kumar Rajput,Matheran,Navi Mumbai,-,410102,400,20,80,48,102,470,Online
+2024-0517,12-12-2024,C01051,Karimulla Singh,Bhivpuri Camp,Navi Mumbai,Maharashtra,410201,800, -   , -   ,96,104,"1,000.00",Online
+2024-0518,15-12-2024,C01052,Harshith Maurrya,Palasdari,Navi Mumbai,Maharashtra,410201,350, -   , -   ,42,103.5,495.5,Online
+2024-0519,15-12-2024,C00858,Radhey Gupta,Mandvi,Mumbai,Maharashtra,400003,400,20,80,48,102,470,Online
+2024-0520,16-12-2024,C01053,Mrinali Pratap,Falkland Road,Mumbai,Maharashtra,400008,"1,150.00", -   , -   ,138,105.5,"1,393.50",Online
+2024-0521,16-12-2024,C00939,Dharm Singh Pandey,S S K Sangli,SANGLI,Maharashtra,416416,500, -   , -   ,60,102.5,662.5,Online
+2024-0522,17-12-2024,C01054,Araman Mishra,Secretariate,Mumbai,Maharashtra,400032,"1,300.00", -   , -   ,156,104.5,"1,560.50",Online
+2024-0523,17-12-2024,C01055,Eliyas Yadav,Panvel,Navi Mumbai,Maharashtra,410206,"1,950.00", -   , -   ,234,106.5,"2,290.50",Online
+2024-0524,18-12-2024,C00757,Kishor Srivastav,Hathini,Rohtas,Bihar,802215,250, -   , -   ,30,102.5,382.5,Online
+2024-0525,19-12-2024,C01056,Dasrth Pandey,Danda,Mumbai,Maharashtra,400052,"1,850.00",10,185,222,107,"1,994.00",Online
+2024-0526,19-12-2024,C01057,Krity Vishwakarma,Konkan Bhavan,Thane,Maharashtra,400614,"1,000.00",20,200,120,101,"1,021.00",Online
+2024-0527,19-12-2024,C00837,Ganeshram Divedi,Rajupalem (Guntur),Narasaraopet,Andhra Pradesh,522412,900, -   , -   ,108,104,"1,112.00",Amazon
+2024-0528,20-12-2024,C01058,Rambilas Divedi,Chandpur,Faridabad,Haryana,121101,"1,400.00", -   , -   ,168,104.5,"1,672.50",Amazon
+2024-0529,20-12-2024,C01059,Aliasgar Divedi,Karanja,Navi Mumbai,Maharashtra,400702,"1,450.00",20,290,174,106.5,"1,440.50",Amazon
+2024-0530,20-12-2024,C01021,Kuldep Gupta,Jagdish Nagar,Navi Mumbai,Maharashtra,410216,850, -   , -   ,102,104.5,"1,056.50",Amazon
+2024-0531,22-12-2024,C01060,Rofiqul Singh,Palaspe,Navi Mumbai,Maharashtra,410221,"1,000.00", -   , -   ,120,105,"1,225.00",Amazon
+2024-0532,24-12-2024,C01061,Nilakshi Maurya,Vajjanakurke,Tumakuru,Karnataka,572129,400,40,160,48,102,390,Amazon
+2024-0533,25-12-2024,C01062,Aquib Vishwakarma,Jamshedpur,Jamshedpur,Jharkhand,831001,"1,250.00",10,125,150,106.5,"1,381.50",Online
+2024-0534,26-12-2024,C00726,Sadhan Pratap,Anandi,Vadodara,Gujarat,391110,"1,950.00",30,585,234,106,"1,705.00",Online
+2024-0535,26-12-2024,C00775,Moina Tiwari,Nhava,Navi Mumbai,Maharashtra,410206,"1,200.00",40,480,144,104,968,Amazon
+2024-0536,26-12-2024,C00727,Anurudh Rai,Mahim East,Mumbai,Maharashtra,400016,400,30,120,48,102,430,Online
+2024-0537,26-12-2024,C00728,Md Ansar Yadav,Pathraj,Navi Mumbai,-,410201,"1,000.00",40,400,120,103,823,Amazon
+2024-0538,26-12-2024,C00730,Ashish Raj Mishra,Naigaon,Nasik,Maharashtra,422102,"1,200.00",40,480,144,104.5,968.5,Amazon
+2024-0539,26-12-2024,C00827,Anant Kumar Rajput,Matheran,Navi Mumbai,Maharashtra,410102,200,30,60,24,102,266,Online
+2024-0540,26-12-2024,C00786,Surya Kanta Kumari,Vasai,Ahmedabad,Gujarat,382425,400,40,160,48,104,392,Amazon
+2024-0541,27-12-2024,C01063,Bhoora Seth,Neelwai,Adilabad,Telangana,504214,"1,050.00",20,210,126,106.5,"1,072.50",Amazon
+2024-0542,27-12-2024,C01064,Kashmiri Vishwakarma,Brindaban,Nawadha,Bihar,811105,"1,800.00", -   , -   ,216,107,"2,123.00",Amazon
+2024-0543,27-12-2024,C00944,Santosh Singh Divedi,Prabhadevi,Mumbai,Maharashtra,400025,"2,300.00", -   , -   ,276,105,"2,681.00",Amazon
+2024-0544,28-12-2024,C01065,Kalaivani Rao,Mhada Colony,Mumbai,Maharashtra,400081,"1,100.00", -   , -   ,132,108.5,"1,340.50",Online
