@@ -1,0 +1,47 @@
+@startuml data-schema
+!theme plain
+skinparam linetype ortho
+skinparam backgroundColor #FFFFFF
+skinparam DefaultFontName Segoe UI
+skinparam entity {
+  BackgroundColor #E8F4FD
+  BorderColor #1976D2
+  FontColor #0D47A1
+}
+skinparam ArrowColor #1976D2
+
+title <b>Relational Schema of the Poshtique Dataset</b>\n<size:11><i>544 orders | 884 line items | 340 unique customers | CY 2024</i></size>
+
+entity "Summary" as summary {
+  * <b>Order No</b> : string <<PK>>
+  --
+  Order Date : datetime
+  Customer ID : string
+  Customer Name : string
+  Area : string
+  City : string
+  State : string
+  Pincode : number
+  Order Total : float (INR)
+  Discount (%) : number
+  Discount Amount : float (INR)
+  GST : float (INR)
+  Shipping : float (INR)
+  Grand Total : float (INR)
+  Channel : string
+}
+
+entity "Details" as details {
+  * <b>Order No</b> : string <<FK>>
+  --
+  Product Name : string
+  Quantity Ordered : int
+  Unit Price : float (INR)
+  Total Price : float (INR)
+  Stock Remaining : int
+  Replenishment Day : int
+}
+
+summary ||--o{ details : <b>contains</b>
+
+@enduml

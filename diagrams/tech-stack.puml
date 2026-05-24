@@ -1,0 +1,53 @@
+@startmindmap tech-stack
+!theme plain
+skinparam backgroundColor #FFFFFF
+skinparam DefaultFontName Segoe UI
+<style>
+mindmapDiagram {
+  .root {
+    BackgroundColor #1565C0
+    FontColor white
+  }
+  .excel {
+    BackgroundColor #1E7E47
+    FontColor white
+  }
+  .python {
+    BackgroundColor #FFD43B
+    FontColor #1E1E1E
+  }
+  .powerbi {
+    BackgroundColor #F2C811
+    FontColor #1E1E1E
+  }
+  .leaf {
+    BackgroundColor #E3F2FD
+    FontColor #0D47A1
+  }
+}
+</style>
+
+title Tools and Libraries Used
+
+* Project Toolchain <<root>>
+** Microsoft Excel <<excel>>
+*** Initial cleaning <<leaf>>
+*** VLOOKUP geocoding <<leaf>>
+*** Pivot tables <<leaf>>
+*** Descriptive stats <<leaf>>
+*** ABC / Pareto tables <<leaf>>
+** Python <<python>>
+*** Pandas <<leaf>>
+*** NumPy <<leaf>>
+*** Matplotlib <<leaf>>
+*** Seaborn <<leaf>>
+*** Scikit-learn <<leaf>>
+*** EOQ / ROL modelling <<leaf>>
+** Microsoft Power BI <<powerbi>>
+*** Heatmaps <<leaf>>
+*** Funnel charts <<leaf>>
+*** Sankey diagrams <<leaf>>
+*** Geo scatter maps <<leaf>>
+*** RFM treemap <<leaf>>
+
+@endmindmap

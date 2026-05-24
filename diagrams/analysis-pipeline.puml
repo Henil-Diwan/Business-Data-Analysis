@@ -1,0 +1,70 @@
+@startuml analysis-pipeline
+!theme plain
+skinparam backgroundColor #FFFFFF
+skinparam DefaultFontName Segoe UI
+skinparam ActivityBackgroundColor #E3F2FD
+skinparam ActivityBorderColor #1565C0
+skinparam ActivityFontColor #0D47A1
+skinparam ActivityDiamondBackgroundColor #FFF8E1
+skinparam ArrowColor #1565C0
+skinparam NoteBackgroundColor #FFFDE7
+skinparam NoteBorderColor #FBC02D
+
+title <b>Data Analysis Life Cycle (DALC) - Poshtique Project</b>
+
+start
+:<b>1. Business Understanding & Data Collection</b>;
+note right
+  - Owner interviews with Purnima
+    and Noopur Mehta
+  - Receive 2024 CSV sales data
+    (Summary + Details)
+end note
+
+:<b>2. Data Preprocessing</b>;
+note right
+  - Impute missing states & pincodes
+  - Standardize customer/product names
+  - Categorize products as
+    Sweet vs Savory
+end note
+
+:<b>3. Geo-tagging & Location Analysis</b>;
+note right
+  - Excel VLOOKUP against global
+    lat/long dataset
+  - Build hotspot maps in Power BI
+end note
+
+:<b>4. Descriptive Analysis</b>;
+note right
+  - Central tendency on order values
+  - Channel distribution
+  - Product mix per order
+end note
+
+:<b>5. Data Modeling & Diagnostic</b>;
+note right
+  - Monthly product trends
+  - Seasonal heatmaps
+  - Sankey: Channel -> Product -> City
+end note
+
+:<b>6. Apply Analytical Frameworks</b>;
+note right
+  SWOT  |  Pareto  |  ABC  |  RFM
+end note
+
+:<b>7. Inventory Optimization</b>;
+note right
+  - Economic Order Quantity (EOQ)
+  - Reorder Level (ROL)
+  - Stockout impact ~ 6.26%
+    of gross sales
+end note
+
+:<b>8. Interpretation of Results</b>;
+:<b>9. Actionable Recommendations</b>;
+stop
+
+@enduml
